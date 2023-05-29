@@ -1,5 +1,6 @@
 * {
     background-color: rgb(209,169,118);
+    overflow-x: hidden;
 }
 table {
     width: 100%;
